@@ -1,0 +1,148 @@
+.text-center {
+  text-align: center;
+}
+
+.display-table {
+  display: table;
+}
+
+.header-margin {
+  margin: 20px;
+}
+
+.card-footer {
+  padding: 10px;
+}
+
+.grounded {
+  text-align: center;
+}
+
+.yoda-img {
+  height: 300px;
+  width: 300px;
+}
+
+.index-img {
+  height: 188px;
+  width: 268px;
+}
+
+.beer-index-img {
+  padding-right: 300px;
+}
+
+.cocktail-index-img {
+  padding-left: 300px;
+}
+
+.follow-directions {
+  font-size: 40px;
+  color: red;
+}
+
+.input-search {
+  background-image: url("/assets/images/Screen\ Shot\ 2020-05-09\ at\ 11.35.46\ AM.png");
+  background-size: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 350px;
+}
+
+.bb-section {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.body {
+  background-color: #a17302;
+  min-height: 900px;
+  padding-bottom: 50px;
+}
+
+.bb-container {
+  background-color: #4c494f;
+  padding-bottom: 25px;
+}
+
+.index-container {
+  height: 900px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.cocktail-div {
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 15px;
+  text-align: center;
+  background-color: #c6b75e;
+  color: black;
+}
+
+.instruction-div {
+  padding: 10px;
+  color: white;
+}
+
+.liquor-center {
+  margin: 10px;
+  text-align: center;
+}
+
+.label-text {
+  color: white;
+}
+
+.search-div {
+  margin-left: 20%;
+  margin-right: 50%;
+}
+
+.recipe-div {
+  min-height: 500px;
+}
+
+.foot {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #e4e9ea;
+  height: 50px;
+  color: black;
+  font-size: 13px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.logo {
+  height: 80px;
+  width: 80px;
+  padding: 15px;
+}
+
+.beer-section {
+  background-color: #a17302;
+}
+
+.beer-container {
+  background-color: #4c494f;
+}
+
+.brewery-title {
+  color: white;
+}
+
+.footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+.footer h2 {
+  font-size: 20px;
+}
